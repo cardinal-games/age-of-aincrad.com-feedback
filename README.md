@@ -11,4 +11,4 @@ Basically, you can do one of two things: either look at [_exising discussions_](
 
 ## How do I create a new discussion?
 
-You can click on the tab "Discussions" at the top of the page and the on the green "New discussion" button in the top right.
+You can click on the tab "Discussions" at the top of the page and then on the green "New discussion" button in the top right.
