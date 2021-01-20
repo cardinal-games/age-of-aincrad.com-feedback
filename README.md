@@ -4,7 +4,7 @@
 
 ## What do I do here?
 
-Basically, you can do one of two things: either look at [_exising discussions_](https://github.com/cardinal-games/age-of-aincrad.com-feedback/discussions) or you can [_create a new discussion_](https://github.com/cardinal-games/age-of-aincrad.com-feedback/discussions/new).
+Basically, you can do one of two things: either look at [_existing discussions_](https://github.com/cardinal-games/age-of-aincrad.com-feedback/discussions) or you can [_create a new discussion_](https://github.com/cardinal-games/age-of-aincrad.com-feedback/discussions/new).
 
 > Discussing and creating issues is restricted to users with an existing GitHub account.
 > Don't have one? Don't worry, you can always create one and they are always free: [sign up](https://github.com/join)
